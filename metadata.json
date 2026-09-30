@@ -1,0 +1,6 @@
+{
+  "name": "SuperScale AI - Free Video & Image Upscaler",
+  "description": "Free, instant video and photo resolution enhancer and upscaler from 144p to 8K with AI clarity enhancement, real-time split preview, and direct download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
